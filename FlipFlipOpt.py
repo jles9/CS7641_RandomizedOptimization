@@ -253,7 +253,7 @@ def runFlipFlopOpt(length=50):
     plt.plot(ga_params["pop_sizes"], ga_pop_scores, label = 'GA', color="red")
     plt.plot(ga_params["pop_sizes"], mimic_pop_scores, label = 'MIMIC', color="blue")
     plt.title('Pop Size vs Final Score.  Problem: {}'.format("FlipFlop"))
-    plt.xlabel("Decay Rate")
+    plt.xlabel("Population Size")
     plt.ylabel("Best Fitness Value")
     plt.legend()
     plt.savefig('./graphs/{}_{}.png'.format("FlipFlop_PopSize", length))  

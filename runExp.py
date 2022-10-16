@@ -17,10 +17,8 @@ def runNNexp():
 
 def runRandomOptExp():
 
-    global tracked_times, start_time_track
-
     runFourPeaksOpt()
-    runkColorsOpt()
+    # runkColorsOpt()
     # runQueensOpt()
     runFlipFlopOpt()
     runKnapsackOpt()
