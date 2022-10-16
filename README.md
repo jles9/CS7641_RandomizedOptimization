@@ -1,7 +1,7 @@
 ### CS 7641 Project 2: Randomized Optimization
 
 # Github Link:
-https://github.com/jles9/CS7641.git
+https://github.com/jles9/CS7641_RandomizedOptimization.git
 
 ## Overview
 This project seeks to conduct a suvery of randomized optimization algorithims, including:
