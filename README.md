@@ -34,8 +34,10 @@ The survery is conducted with respect to three different problems, which will be
     runExp.py : main entry point
 
     <Problem>Opt.py : respective file to run all algo experiments for a particular problem
+
     NNAgent.py : File to fun NN Opt experiment
 
+    Several other problem files were included, but will not be part of the report
 
 
 ## Author Information
